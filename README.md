@@ -1,5 +1,5 @@
 # Executive-Business-Performance
-#Overview
+# Overview
 This Power BI dashboard provides an executive-level overview of business performance, tracking actual vs. target metrics across departments (Sales, HR, Operations, Finance). Key features include:
 
 **Performance Trends:** Yearly and monthly visualizations.
@@ -8,7 +8,7 @@ This Power BI dashboard provides an executive-level overview of business perform
 
 **Interactive Filters:** Drill down by year, department, or date.
 
-#Key Metrics
+# Key Metrics
 **Total Actual:** 25.94K
 
 **Total Target:** 26.01K
@@ -17,17 +17,17 @@ This Power BI dashboard provides an executive-level overview of business perform
 
 **YoY Growth:** 52.2%
 
-#Tools Used
+# Tools Used
 Power BI (DAX, Power Query)
 
 Data Modeling & Visualization Best Practices
 
-#How to Use
+# How to Use
 Download the .pbix file.
 
 Open in Power BI Desktop.
 
 Explore filters and tooltips for deeper insights.
 
-#Connect with me on [LinkedIn](www.linkedin.com/in/sakshi-ubale) for collaborations!
+# Connect with me on [LinkedIn](www.linkedin.com/in/sakshi-ubale) for collaborations!
 
